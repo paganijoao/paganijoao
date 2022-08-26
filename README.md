@@ -8,3 +8,5 @@
 <!---
 Hi I'm João I have a special love for computers, love learning more and more is "⭐ special ⭐" Learning about it
 --->
+
+![](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
